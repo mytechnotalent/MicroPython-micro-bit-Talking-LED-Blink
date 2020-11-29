@@ -4,6 +4,34 @@
 # Talking LED Blink
 The micro:bit Talking LED Blink is a micro:bit Electronic Educational Engagement Tool designed to help students create a talking LED blink application.
 
+## Schematic
+![image](https://raw.githubusercontent.com/mytechnotalent/MicroPython-micro-bit_Talking_LED_Blink/main/schematic.png)
+
+## Parts
+[micro:bit](https://microbit.org/buy/?location=US&version=microbitV2)<br>
+[Ks0360 Keyestudio Sensor Shield V2 for BBC micro:bit](https://www.amazon.com/gp/product/B08H7VSLZH/)
+
+## STEP 1: Navigate To The FREE micro:bit Python Web Editor
+[micro:bit Python Web Editor](https://python.microbit.org/v/beta)<br><br>
+![image](https://raw.githubusercontent.com/mytechnotalent/MicroPython-micro-bit_Talking_LED_Blink/main/STEP%201.png)
+
+## STEP 2: Plug micro:bit V2 Into Computer
+***PLUG IN USB CABLE TO COMPUTER AND DEVICE***
+
+## STEP 3: Click CONNECT
+![image](https://raw.githubusercontent.com/mytechnotalent/MicroPython-micro-bit_Talking_LED_Blink/main/STEP%203.png)
+
+## STEP 4: Click "BBC micro:bit CMSIS-DAP" & CONNECT
+![image](https://raw.githubusercontent.com/mytechnotalent/MicroPython-micro-bit_Talking_LED_Blink/main/STEP%204.png)
+
+## STEP 5: Highlight Sample Code - Select All
+![image](https://raw.githubusercontent.com/mytechnotalent/MicroPython-micro-bit_Talking_LED_Blink/main/STEP%205.png)
+
+## STEP 6: Click Backspace On Keyboard To Delete Sample Code
+![image](https://raw.githubusercontent.com/mytechnotalent/MicroPython-micro-bit_Talking_LED_Blink/main/STEP%206.png)
+
+## STEP 7: Copy Study Buddy Python Code Template Into Python Web Editor
+
 # CODE
 ```python
 from time import sleep
@@ -23,6 +51,18 @@ while True:
     display.show(Image.HAPPY)
     sleep(5)
 ```
+
+
+## STEP 8: Rename Script Name To talking_led_blink
+
+## STEP 9: Click Save
+![image](https://raw.githubusercontent.com/mytechnotalent/MicroPython-micro-bit_Talking_LED_Blink/main/STEP%209.png)
+
+## STEP 10: Click Download Python Script
+![image](https://raw.githubusercontent.com/mytechnotalent/MicroPython-micro-bit_Talking_LED_Blink/main/STEP%210.png)
+
+## STEP 11: Click Flash
+![image](https://raw.githubusercontent.com/mytechnotalent/MicroPython-micro-bit_Talking_LED_Blink/main/STEP%211.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
