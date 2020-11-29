@@ -6,7 +6,7 @@ The micro:bit Talking LED Blink is a micro:bit Electronic Educational Engagement
 
 ## Schematic
 ![image](https://raw.githubusercontent.com/mytechnotalent/MicroPython-micro-bit_Talking_LED_Blink/main/schematic.png)<br>
-*** NOTE *** USE PIN1 INSTEAD OF PIN0
+*** NOTE *** USE PIN1 INSTEAD OF PIN0 (GREEN WIRE)
 
 ## Parts
 [micro:bit](https://microbit.org/buy/?location=US&version=microbitV2)<br>
