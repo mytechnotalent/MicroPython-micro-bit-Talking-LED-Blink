@@ -5,12 +5,15 @@
 The micro:bit Talking LED Blink is a micro:bit Electronic Educational Engagement Tool designed to help students create a talking LED blink application.
 
 ## Schematic
-![image](https://raw.githubusercontent.com/mytechnotalent/MicroPython-micro-bit_Talking_LED_Blink/main/schematic.png)<br>
+![image](https://raw.githubusercontent.com/mytechnotalent/MicroPython-micro-bit_Talking_LED_Blink/main/schematic.png | width=50)<br>
 *** NOTE *** USE PIN1 INSTEAD OF PIN0 (GREEN WIRE)
 
 ## Parts
 [micro:bit](https://microbit.org/buy/?location=US&version=microbitV2)<br>
-[Ks0360 Keyestudio Sensor Shield V2 for BBC micro:bit](https://www.amazon.com/gp/product/B08H7VSLZH/)
+[Ks0360 Keyestudio Sensor Shield V2 for BBC micro:bit](https://www.amazon.com/gp/product/B08H7VSLZH/)<br>
+* Keyestudio Micro bit sensor V2 shield * 1
+* keyestudio Digital White LED Module * 1
+* Dupont jumper wire * 3
 
 ## STEP 1: Navigate To The FREE micro:bit Python Web Editor
 [micro:bit Python Web Editor](https://python.microbit.org/v/beta)<br><br>
