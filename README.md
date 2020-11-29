@@ -5,7 +5,7 @@
 The micro:bit Talking LED Blink is a micro:bit Electronic Educational Engagement Tool designed to help students create a talking LED blink application.
 
 ## Schematic
-![image](https://raw.githubusercontent.com/mytechnotalent/MicroPython-micro-bit_Talking_LED_Blink/main/schematic.png)
+![image](https://raw.githubusercontent.com/mytechnotalent/MicroPython-micro-bit_Talking_LED_Blink/main/schematic.png)<br>
 *** NOTE *** USE PIN1 INSTEAD OF PIN0
 
 ## Parts
