@@ -1,2 +1,15 @@
-# MicroPython-micro-bit_Talking_LED_Blink
+![image](https://raw.githubusercontent.com/mytechnotalent/MicroPython-micro-bit_Talking_LED_Blink/main/MicroPython-micro-bit%20Talking%20LED%20Blink.jpg)
+
+# MicroPython-micro-bit
+# Talking LED Blink
 The micro:bit Talking LED Blink is a micro:bit Electronic Educational Engagement Tool designed to help students create a talking LED blink application.
+
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
