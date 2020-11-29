@@ -59,10 +59,10 @@ while True:
 ![image](https://raw.githubusercontent.com/mytechnotalent/MicroPython-micro-bit_Talking_LED_Blink/main/STEP%209.png)
 
 ## STEP 10: Click Download Python Script
-![image](https://raw.githubusercontent.com/mytechnotalent/MicroPython-micro-bit_Talking_LED_Blink/main/STEP%210.png)
+![image](https://raw.githubusercontent.com/mytechnotalent/MicroPython-micro-bit_Talking_LED_Blink/main/STEP%2010.png)
 
 ## STEP 11: Click Flash
-![image](https://raw.githubusercontent.com/mytechnotalent/MicroPython-micro-bit_Talking_LED_Blink/main/STEP%211.png)
+![image](https://raw.githubusercontent.com/mytechnotalent/MicroPython-micro-bit_Talking_LED_Blink/main/STEP%2011.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
