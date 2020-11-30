@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/mytechnotalent/MicroPython-micro-bit_Talking_LED_Blink/main/MicroPython-micro-bit%20Talking%20LED%20Blink.jpg)
+![image](https://github.com/mytechnotalent/MicroPython-micro-bit_Talking_LED_Blink/blob/main/MicroPython-micro-bit%20Talking%20LED%20Blink.png?raw=true)
 
 # MicroPython-micro-bit
 # Talking LED Blink
