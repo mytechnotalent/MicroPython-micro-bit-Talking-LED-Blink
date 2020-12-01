@@ -56,7 +56,6 @@ while True:
     sleep(5)
 ```
 
-
 ## STEP 8: Rename Script Name To talking_led_blink
 
 ## STEP 9: Click Save
